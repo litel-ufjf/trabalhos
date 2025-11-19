@@ -1,8 +1,8 @@
 # Trabalhos
 
-Biblioteca de trabalhos desenvolvidos por pesquisadores do LITel.
+**em construção**
 
-[Artigos](./Artigos)
+[Artigos](./Artigo)
 
 [Trabalhos de conclusão de curso](./TCC)
 
