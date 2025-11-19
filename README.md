@@ -1,6 +1,6 @@
 # Trabalhos
 
-Biblioteca de trabalhos desenvolvidos por pesquisadores do LITel.
+* em construção *
 
 [Artigos](./Artigo)
 
