@@ -2,7 +2,7 @@
 
 Biblioteca de trabalhos desenvolvidos por pesquisadores do LITel.
 
-[Artigos](./Artigos)
+[Artigos](./Artigo)
 
 [Trabalhos de conclusão de curso](./TCC)
 
